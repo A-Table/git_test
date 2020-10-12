@@ -1,0 +1,1 @@
+This is Vendetta's first git project!
